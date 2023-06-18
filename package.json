@@ -1,0 +1,24 @@
+{
+  "name": "backend_monggo",
+  "version": "1.0.0",
+  "description": "monggo db practice with express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmingisharthart/mongodb.git"
+  },
+  "keywords": [
+    "\"monggo",
+    "node",
+    "express\""
+  ],
+  "author": "Aaron Borre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmingisharthart/mongodb/issues"
+  },
+  "homepage": "https://github.com/programmingisharthart/mongodb#readme"
+}
