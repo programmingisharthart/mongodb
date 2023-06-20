@@ -4,6 +4,7 @@
   "description": "monggo db practice with express js",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/programmingisharthart/mongodb/issues"
   },
-  "homepage": "https://github.com/programmingisharthart/mongodb#readme"
+  "homepage": "https://github.com/programmingisharthart/mongodb#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0"
+  }
 }
